@@ -20,8 +20,9 @@ firebase-debug.log
 
 # Other
 .DS_Store
+
+# IDE & Project files
 GEMINI.md
 blueprint.md
-firebase-debug.log
-.idx
-.vscode
+.idx/
+.vscode/
